@@ -1,0 +1,14 @@
+.result {
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin: 0 10px;
+    padding: 5px 0;
+    background-color: rgb(236, 65, 65);
+    color: white;
+    font-size: 1.5rem;
+}
+
+.title .point {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
